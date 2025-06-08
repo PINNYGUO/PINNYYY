@@ -1,6 +1,2 @@
-streamlit
-matplotlib
-numpy
-pandas
-seaborn
-pillow
+streamlit>=1.33
+requests
